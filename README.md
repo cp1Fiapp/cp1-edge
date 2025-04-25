@@ -71,10 +71,11 @@ Este projeto simula um sistema embarcado de monitoramento para vinícolas, utili
 ## 🎥 Vídeo de Apresentação
 
 🔗 **Link do vídeo (até 3 min):**  
-d
+
 
 ---
 
 ## 📚 Licença
 
 Projeto acadêmico para a disciplina **Edge Computing & Sistemas Embarcados** – Engenharia de Software, 2025.
+Agradecimentos pela orientação ao Professor Fabio Henrique Cabrini.
