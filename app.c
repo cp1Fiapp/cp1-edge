@@ -55,7 +55,7 @@ void loop() {
     lcd.print("Status: Ideal    ");
     acenderLED(ledVerde, false);
   } 
-  else if (porcentagem <= 60) {
+  else if (porcentagem <= 40) {
     lcd.setCursor(0, 1);
     lcd.print("Status: Alerta   ");
     acenderLED(ledAmarelo, true);
@@ -83,3 +83,4 @@ void acenderLED(int led, bool ligarBuzzer) {
     noTone(buzzer); // Garante que não fique tocando contínuo
   }
 }
+
