@@ -71,7 +71,7 @@ Este projeto simula um sistema embarcado de monitoramento para vinícolas, utili
 ## 🎥 Vídeo de Apresentação
 
 🔗 **Link do vídeo (até 3 min):**  
-[Inserir link do YouTube ou Google Drive]
+d
 
 ---
 
