@@ -43,8 +43,8 @@ Este projeto simula um sistema embarcado de monitoramento para vinícolas, utili
 - A leitura do LDR é convertida em porcentagem (0 a 100%)
 - Os LEDs e buzzer são ativados de acordo com a faixa:
   - **0 a 30%** → LED verde (ideal)
-  - **31 a 60%** → LED amarelo + buzzer
-  - **61 a 100%** → LED vermelho + buzzer
+  - **31 a 39%** → LED amarelo + buzzer
+  - **40 a 100%** → LED vermelho + buzzer
 - O **LCD mostra a porcentagem e o status** em tempo real
 
 ---
