@@ -56,8 +56,8 @@ Este projeto simula um sistema embarcado de monitoramento para vinícolas, utili
 | Valor do sensor | Porcentagem | Estado Esperado          |
 |------------------|-------------|---------------------------|
 | 0–300            | 0–30%       | LED verde (OK)           |
-| 301–600          | 31–39%      | LED amarelo + buzzer     |
-| 601–1023         | 40–100%     | LED vermelho + buzzer    |
+| 301–399      | 31–39%      | LED amarelo + buzzer     |
+| 401-1000        | 40–100%     | LED vermelho + buzzer    |
 
 ### 🎮 Como simular:
 
